@@ -1,5 +1,13 @@
 Revision history for Bencher-Scenario-Textsprintfn
 
+0.002   2016-06-27 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild with newer Pod::Weaver::Plugin::Bencher::Scenario
+          which generates jQuery-sortable HTML tables of sample results.
+
+
 0.001   2016-06-27 (PERLANCAR)
 
         - First release.
